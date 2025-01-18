@@ -1,7 +1,5 @@
 # Simple Chatbot
 
-<img src="image.png" width="420px">
-
 This repository demonstrates a simple AI chatbot with real-time audio/video interaction, implemented in three different ways. The bot server supports multiple AI backends, and you can connect to it using three different client approaches.
 
 
