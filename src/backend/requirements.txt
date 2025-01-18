@@ -1,0 +1,12 @@
+python-dotenv
+fastapi[all]
+uvicorn
+pipecat-ai[daily,elevenlabs,cartesia,silero,google,openai,anthropic,deepgram]
+certifi
+pipecat-ai-flows
+onnxruntime
+openai
+anthropic
+loguru
+asyncio
+aiohttp
